@@ -1,4 +1,41 @@
 {
+  "clientes": [
+    {
+      "id": 1,
+      "name": "Larissa Santana",
+      "email": "larisantana@gmail.com",
+      "dateofbirth": "11/09/2001",
+      "cep": "20908-000"
+    },
+    {
+      "id": 2,
+      "name": "Antônio Araújo",
+      "email": "antonito@gmail.com",
+      "dateofbirth": "12/12/1999",
+      "cep": "10189-000"
+    },
+    {
+      "name": "Ana Maria",
+      "email": "AnaMariaaa00@gmail.com",
+      "dateofbirth": "18/09/2000",
+      "cep": "58209-000",
+      "id": 3
+    },
+    {
+      "name": "João Ricardo",
+      "email": "jricardoof21@gmail.com",
+      "dateofbirth": "10/01/2004",
+      "cep": "11100-000",
+      "id": 4
+    },
+    {
+      "name": "Jackeline Santos",
+      "email": "jackelinesanttos321@gmail.com",
+      "dateofbirth": "20/04/2002",
+      "cep": "58208-000",
+      "id": 5
+    }
+  ],
   "foods": [
     {
       "id": 1,
@@ -35,6 +72,12 @@
       "image": "https://images.unsplash.com/photo-1624772413714-7e1ea3fbfeaf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
       "description": "Hot dog gourmet",
       "id": 8
+    },
+    {
+      "name": "Torta ",
+      "image": "https://images.unsplash.com/photo-1560831457-87b5ec4c5e57?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=386&q=80",
+      "description": "Torta de Framboesa",
+      "id": 9
     }
   ]
 }
